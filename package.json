@@ -34,8 +34,8 @@
     "gulp-clean-css": "^3.10.0",
     "gulp-concat": "^2.6.1",
     "uglifyjs-webpack-plugin": "^2.0.1",
-    "webpack": "^4.25.1",
-    "webpack-stream": "^5.1.1"
+    "webpack": "^5.75.0",
+    "webpack-stream": "^7.0.0"
   },
   "dependencies": {
     "alipay-ftof": "0.1.5",
